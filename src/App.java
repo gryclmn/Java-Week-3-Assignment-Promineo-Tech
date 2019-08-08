@@ -150,11 +150,7 @@ public class App {
 		 * ********************
 		 */
 		System.out.println("getAge() returns => " + getAge(1981));
-		
-		
-		for (int i = 0; i < 100; i++) {
-			if (i % 2 != 0) System.out.println(i);
-		}
+
 	}
 	
 	private static String duplicateWord(String word, int n) {
